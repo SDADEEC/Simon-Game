@@ -1,0 +1,6 @@
+
+*Improvement: the missing[], time can be shortened (Finished)
+
+at start, the white light will shine (I only need yellow light)
+
+sometimes,it will automately shine, without touching? (too sensible???)
