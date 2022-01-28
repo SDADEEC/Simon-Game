@@ -3,7 +3,7 @@ This is a coding coursework model answer. Just for inspiration. DO NOT JUST COPY
 
 
 Simon Game User Manual 
-By XXX
+By SDADEEC
 
 Before the Game
 1. Keep your hands DRY before start
